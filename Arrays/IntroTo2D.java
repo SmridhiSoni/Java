@@ -18,7 +18,7 @@ public class IntroTo2D {
         insert2DArray(arr, 1, 1, 34);
         delete2DArray(arr, 1, 0);
         print2DArray(arr);
-        JackedArray();
+        JacggedArray();
 
     }
 
@@ -41,7 +41,7 @@ public class IntroTo2D {
         Intro.deleteArray(arr[row], col);
     }
 
-    public static void JackedArray() {
+    public static void JacggedArray() {
         int[][] arr1 = new int[2][];
         Scanner scn = new Scanner(System.in);
         for (int i = 0; i < arr1.length; i++) {
