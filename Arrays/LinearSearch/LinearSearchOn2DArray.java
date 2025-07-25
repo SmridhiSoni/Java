@@ -1,3 +1,4 @@
+package LinearSearch;
 
 public class LinearSearchOn2DArray {
     public static void main(String[] args) {
