@@ -1,6 +1,4 @@
-package Arrays;
 
-import Arrays.Intro;
 import java.util.*;
 
 public class IntroTo2D {
